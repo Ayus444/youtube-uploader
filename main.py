@@ -1,5 +1,6 @@
 import os
 import re
+from app import app
 import asyncio
 from pyrogram import Client, filters
 from pyrogram.types import Message, InlineKeyboardButton, InlineKeyboardMarkup, CallbackQuery
