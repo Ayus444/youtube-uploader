@@ -2,7 +2,7 @@ pyrogram
 yt-dlp
 tgcrypto
 ffmpeg
-Flask==1.1.2
+Flask
 gunicorn==20.1.0
 Jinja2==3.0.3
 werkzeug==2.0.2
